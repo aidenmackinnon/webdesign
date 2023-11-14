@@ -2,3 +2,18 @@ header {text-align: center;
 
 
 }
+ section1 {  div {
+    padding: 25px 50px 75px 100px;
+  }
+  text-align: center;
+}
+
+section2 {
+
+    div {
+        padding: 25px 50px 75px 100px;
+      }
+
+      text-align: center;
+
+}
