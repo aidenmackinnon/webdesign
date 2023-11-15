@@ -1,3 +1,8 @@
+
+
+
+
+
 header {
     text-align: center;
   }
@@ -132,9 +137,7 @@ header {
 
   .pen .page-header {
     border-bottom: 1px solid #006699;
-    margin-top: 16px;
-    margin-bottom: 120px;
-    padding: 12px 0;
+    text-align: justify;
   }
 
 
@@ -146,11 +149,6 @@ header {
     margin-right: 0px;
     margin-bottom: 0px;
     }
-
-
-
-
-
 
 
 
