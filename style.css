@@ -1,7 +1,6 @@
 
 
-
-
+  
 header {
     text-align: center;
   }
@@ -96,8 +95,9 @@ header {
       margin-left: 0%;
       text-align: left;
       color: rgb(2, 2, 2);
-      font-family:'Courier New', Courier, monospace
       font-size: 16px;
+      font-family:'Courier New', Courier, monospace
+      
   }
   
   span {
@@ -141,6 +141,12 @@ header {
     margin-bottom: 12px;
     padding: 12px 0;
   }
+
+
+
+
+
+
 
 
 
