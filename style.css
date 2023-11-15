@@ -1,3 +1,6 @@
+
+
+  
 header {
     text-align: center;
   }
@@ -97,19 +100,10 @@ header {
       color: #4a2bd6;
   }
   
-  h2 { text-align: right;
-  
-  
-  
-  }
-  car.jpg { align-items: center;
-     padding-left: 800px;
-     padding-right: 400px;
-     padding-top: 400px;
-  
-  
-  
-  
+  h2 { font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+    text-align:justify
+    
   }
   
   h3 {  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: large;
@@ -149,4 +143,3 @@ header {
 
 
   
-
