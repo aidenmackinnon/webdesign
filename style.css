@@ -79,7 +79,7 @@ header {
       background: #2c3e50;
   }
   h1 {
-      text-align: center;
+      text-align:start;
       text-align: justify;
       font-size: 30px;
       color: #020202;
@@ -145,4 +145,8 @@ header {
 
 
 
+
+
+
+  
 
